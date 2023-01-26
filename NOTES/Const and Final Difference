@@ -1,0 +1,16 @@
+`Const and Final Difference`
+
+```main() { 
+//Const -> Compile Time (Derlenme Zaman1) 
+//Final -> Run Time (Calışma Zaman1) 
+const double pi = 3.14; 
+const pi_sayisi = 3.14; 
+
+// final double pim = 3.14; 
+
+final time = DateTime . now (); 
+print("Zaman: $time") ; 
+
+}```
+
+`Örneğin const verilmiş bir değişkene input yani kullanıcıdan veri alamayız ama final verilmiş değişken için o değeri alabiliriz.
