@@ -13,4 +13,4 @@ print("Zaman: $time") ;
 
 }```
 
-`Örneğin const verilmiş bir değişkene input yani kullanıcıdan veri alamayız ama final verilmiş değişken için o değeri alabiliriz.
+`Örneğin const verilmiş bir değişkene input yani kullanıcıdan veri alamayız ama final verilmiş değişken için o değeri alabiliriz.`
