@@ -23,21 +23,3 @@ A `Set`  is (usually) an unordered collection of unique elements. The uniqueness
   set.add(x);
   print(set); // only 2 elements {1, 2}
 }```
-
-
-`Const and Final Difference`
-
-```main() { 
-//Const -> Compile Time (Derlenme Zaman1) 
-//Final -> Run Time (Calışma Zaman1) 
-const double pi = 3.14; 
-const pi_sayisi = 3.14; 
-​
-// final double pim = 3.14; 
-​
-final time = DateTime . now (); 
-print("Zaman: $time") ; 
-​
-}```
-
-`Örneğin const verilmiş bir değişkene input yani kullanıcıdan veri alamayız ama final verilmiş değişken için o değeri alabiliriz.`
