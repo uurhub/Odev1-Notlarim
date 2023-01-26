@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+<p><b>This repo is for game and app academy</b> </p>
+<p><b>I'm publishing my notes in this repo</b></p>
